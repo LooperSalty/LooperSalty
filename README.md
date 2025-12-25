@@ -11,7 +11,7 @@
 - Bases très solides en **algorithmie** et **programmation**
 - Expérience avec :
   - **Langages** : C, C++, Java, Python, JavaScript, TypeScript, C#
-  - **Web** : HTML, CSS, bases en Node.js
+  - **Web** : HTML, CSS, Node.js
 - Actuellement en apprentissage autodidacte de :
   - ⚛️ **React**
   - 🖖 **Vue.js**
@@ -19,30 +19,30 @@
   - Analyse de données
   - Trading algorithmique (projets fictifs)
   - Bots (Discord, automatisation, API)
-  - IA
-  - Site internet et applications mobiles
+  - Intelligence artificielle
+  - Sites internet & applications mobiles
   - Logiciels
 
 ---
 
 ## 🛠️ Technologies & outils
 
-![Languages](https://skillicons.dev/icons?i=js,python,java,cpp,c,nodejs,html,css,git,linux)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,sql,mongodb,nodejs,react,vue,laravel,symfony,flutter,swift,html,css,git,linux)
 
 ---
 
 ## 📈 Ce que je fais en ce moment
 
-- 📚 Approfondissement de **React & Vue**
-- 🤖 Développement de bots et projets perso
+- 📚 Approfondissement de **React, Vue.js & Flutter**
+- 🤖 Développement de bots, projets IA et automatisation
 - 🔍 Travail sur des projets concrets pour monter en niveau
 
 ---
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : _https://www.linkedin.com/in/paul-ruiz-851465259/_
-- 📧 Email : _paulruiz944@gmail.com_
+- 💼 LinkedIn : https://www.linkedin.com/in/paul-ruiz-851465259/
+- 📧 Email : paulruiz944@gmail.com
 
 ---
 
