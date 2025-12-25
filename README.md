@@ -2,7 +2,8 @@
 
 🎓 Étudiant en informatique  
 💻 Développeur orienté **Web / Logiciel / App Mobile / IA**  
-🚀 En train de monter en compétences sur le **développement web moderne / IA / Automatisation / Analyse de données**
+🧩 Spécialisation en **développement web 3D & expériences interactives**  
+🚀 En montée de compétences sur le **développement web moderne / IA / Automatisation / Analyse de données**
 
 ---
 
@@ -16,26 +17,27 @@
   - ⚛️ **React**
   - 🖖 **Vue.js**
 - Intéressé par :
+  - Développement **Web 3D & temps réel**
+  - Intelligence artificielle
   - Analyse de données
   - Trading algorithmique (projets fictifs)
   - Bots (Discord, automatisation, API)
-  - Intelligence artificielle
-  - Sites internet & applications mobiles
-  - Logiciels
+  - Sites internet, applications mobiles & logiciels
 
 ---
 
 ## 🛠️ Technologies & outils
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,sql,mongodb,nodejs,react,vue,laravel,symfony,flutter,swift,html,css,git,linux)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,nodejs,react,vue,laravel,symfony,flutter,swift,unity,unreal,blender,mongodb,mysql,html,css,git,linux)
 
 ---
 
 ## 📈 Ce que je fais en ce moment
 
+- 🌐 Développement **Web 3D** (Three.js, moteurs temps réel, interactivité)
 - 📚 Approfondissement de **React, Vue.js & Flutter**
-- 🤖 Développement de bots, projets IA et automatisation
-- 🔍 Travail sur des projets concrets pour monter en niveau
+- 🤖 Projets **IA**, bots et automatisation
+- 🔍 Travail sur des projets concrets orientés performance & UX
 
 ---
 
