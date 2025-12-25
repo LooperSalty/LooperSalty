@@ -1,28 +1,45 @@
 # 👋 Salut, moi c’est Paul
 
 🎓 Étudiant en informatique  
-💻 Développeur orienté **Web / Logiciel / App Mobile / IA**  
-🧩 Spécialisation en **développement web 3D & expériences interactives**  
-🚀 En montée de compétences sur le **développement web moderne / IA / Automatisation / Analyse de données**
+💻 Développeur **Web / Logiciel / App Mobile / IA**  
+🧩 Spécialisation en **développement Web 3D & expériences interactives**  
+🚀 En montée de compétences sur le **Web moderne, l’IA, l’automatisation et l’analyse de données**
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 Profil
 
-- Bases très solides en **algorithmie** et **programmation**
-- Expérience avec :
-  - **Langages** : C, C++, Java, Python, JavaScript, TypeScript, C#
-  - **Web** : HTML, CSS, Node.js
-- Actuellement en apprentissage autodidacte de :
-  - ⚛️ **React**
-  - 🖖 **Vue.js**
-- Intéressé par :
-  - Développement **Web 3D & temps réel**
-  - Intelligence artificielle
-  - Analyse de données
-  - Trading algorithmique (projets fictifs)
-  - Bots (Discord, automatisation, API)
-  - Sites internet, applications mobiles & logiciels
+Développeur passionné avec de **solides bases en algorithmie et programmation**, orienté vers la création de solutions modernes, performantes et interactives, aussi bien côté web que logiciel.
+
+---
+
+## 🧩 Compétences principales
+
+### 🔹 Langages
+
+- C, C++, Java
+- Python
+- JavaScript, TypeScript
+- C#
+
+### 🔹 Développement Web & Logiciel
+
+- HTML, CSS, Node.js
+- React, Vue.js
+- Laravel, Symfony
+
+### 🔹 Mobile & 3D
+
+- Flutter, Swift
+- Web 3D & temps réel
+- Unity, Unreal Engine, Blender
+
+### 🔹 Données, IA & Automatisation
+
+- Intelligence artificielle
+- Analyse de données
+- Bots & automatisation (Discord, API)
+- Trading algorithmique (projets fictifs)
 
 ---
 
@@ -34,10 +51,10 @@
 
 ## 📈 Ce que je fais en ce moment
 
-- 🌐 Développement **Web 3D** (Three.js, moteurs temps réel, interactivité)
-- 📚 Approfondissement de **React, Vue.js & Flutter**
+- 🌐 Développement **Web 3D** (Three.js, interactivité, temps réel)
+- 📚 Montée en compétences sur **React, Vue.js & Flutter**
 - 🤖 Projets **IA**, bots et automatisation
-- 🔍 Travail sur des projets concrets orientés performance & UX
+- 🔍 Réalisation de projets concrets orientés **performance & UX**
 
 ---
 
@@ -48,4 +65,4 @@
 
 ---
 
-⭐ N’hésite pas à explorer mes repos et à suivre mon évolution !
+⭐ N’hésite pas à explorer mes repositories et à suivre mon évolution !
