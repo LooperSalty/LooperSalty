@@ -36,8 +36,8 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 ### ML / IA
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda" />
-  <a href="https://claude.ai"><img src="./icons/claude.svg" width="48" height="48" alt="Claude" /></a>
-  <a href="https://gemini.google.com"><img src="./icons/gemini.svg" width="48" height="48" alt="Gemini" /></a>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 ### Game Dev & 3D
