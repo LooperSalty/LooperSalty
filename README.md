@@ -47,7 +47,7 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,swift,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
 ### Outils & DevOps
