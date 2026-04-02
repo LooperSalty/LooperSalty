@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Game+Dev+%F0%9F%8E%AE;Machine+Learning+%F0%9F%A4%96;Web+3D+%F0%9F%8C%90;Procedural+Worlds+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Game+Dev+%F0%9F%8E%AE;Machine+Learning+%F0%9F%A4%96;Web+3D+%F0%9F%8C%90;Procedural+Worlds+%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
 </div>
 
@@ -71,14 +70,6 @@ Je construis des moteurs de jeu, des agents IA et des mondes procéduraux.
 ### Outils & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,tauri,vscode,figma,arch,hyprland" />
-</p>
-
----
-
-## 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LooperSalty&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
