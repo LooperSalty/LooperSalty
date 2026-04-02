@@ -19,19 +19,39 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 ## ⚡ Stack
 
 ### Langages
-![TypeScript](https://skillicons.dev/icons?i=ts,python,cpp,rust,c)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,rust,cs,java,php" />
+</p>
 
-### ML / RL
-![ML](https://skillicons.dev/icons?i=pytorch)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,vite" />
+</p>
 
-### Web 3D & Web
-![Web](https://skillicons.dev/icons?i=threejs,react,nextjs,fastapi,vite)
+### Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel,symfony,mongodb,mysql,postgres" />
+</p>
 
-### Game Engines
-![Games](https://skillicons.dev/icons?i=godot,bevy)
+### ML / IA
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda" />
+</p>
 
-### Outils
-![Tools](https://skillicons.dev/icons?i=git,linux,docker,tauri)
+### Game Dev & 3D
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,unity,unreal,bevy,threejs,blender" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,swift,androidstudio" />
+</p>
+
+### Outils & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,tauri,vscode,figma" />
+</p>
 
 ---
 
