@@ -18,30 +18,44 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 
 ## ⚡ Stack
 
-```
-Langages       TypeScript · Python · C++ · Rust · GLSL · C
-ML / RL        PyTorch · Gymnasium · stable-baselines3 · Hugging Face
-Web 3D         Three.js · React Three Fiber · cannon-es · shaders GLSL
-Web            React · Next.js · FastAPI · Vite
-Game Engines   Godot · Pygame · Bevy (Rust)
-Outillage      Claude Code · agents multi-modèles · automatisation
-```
+### Langages
+![TypeScript](https://skillicons.dev/icons?i=ts,python,cpp,rust,c)
+
+### ML / RL
+![ML](https://skillicons.dev/icons?i=pytorch)
+
+### Web 3D & Web
+![Web](https://skillicons.dev/icons?i=threejs,react,nextjs,fastapi,vite)
+
+### Game Engines
+![Games](https://skillicons.dev/icons?i=godot,bevy)
+
+### Outils
+![Tools](https://skillicons.dev/icons?i=git,linux,docker,tauri)
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LooperSalty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LooperSalty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LooperSalty&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LooperSalty&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LooperSalty&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LooperSalty&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_RUIZ-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/paul-ruiz-851465259/)
-[![Email](https://img.shields.io/badge/Email-paulruiz944%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:paulruiz944@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_RUIZ-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paul-ruiz-851465259/)
+[![Email](https://img.shields.io/badge/Email-paulruiz944%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:paulruiz944@gmail.com)
 
 ---
 
