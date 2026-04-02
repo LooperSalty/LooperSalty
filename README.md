@@ -42,7 +42,7 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 
 ### Game Dev & 3D
 <p>
-  <img src="https://skillicons.dev/icons?i=godot,unity,unreal,bevy,threejs,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,bevy,threejs,blender" />
 </p>
 
 ### Mobile
