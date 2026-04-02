@@ -1,7 +1,25 @@
-# Salut, moi c'est Paul 👋
+<div align="center">
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Game+Dev+%F0%9F%8E%AE;Machine+Learning+%F0%9F%A4%96;Web+3D+%F0%9F%8C%90;Procedural+Worlds+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+
+</div>
+
+---
+
+## 👋 Salut, moi c'est Paul
 
 Développeur passionné par le **game dev**, le **machine learning** et les **expériences 3D interactives**.  
-Je construis des moteurs, des agents IA et des mondes procéduraux.
+Je construis des moteurs de jeu, des agents IA et des mondes procéduraux.
+
+---
+
+## 🚀 En ce moment
+
+- 🎮 Développement d'un **clone Minecraft** en C++17 / OpenGL
+- 🤖 Orchestration **multi-agents IA** avec Claude & Gemini
+- 🌐 Moteur de **monde procédural** jouable dans le navigateur
+- 🦀 Expérimentations **Rust** pour du tooling haute performance
 
 ---
 
@@ -57,6 +75,14 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 
 ---
 
+## 🏆 Trophées
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LooperSalty&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
 ## 📊 Stats
 
 <p align="center">
@@ -74,12 +100,30 @@ Je construis des moteurs, des agents IA et des mondes procéduraux.
 
 ---
 
-## 📫 Contact
+## 🐍 Contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_RUIZ-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paul-ruiz-851465259/)
-[![Email](https://img.shields.io/badge/Email-paulruiz944%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:paulruiz944@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LooperSalty/LooperSalty/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paul-ruiz-851465259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Paul_RUIZ-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:paulruiz944@gmail.com">
+    <img src="https://img.shields.io/badge/Email-paulruiz944%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LooperSalty&style=for-the-badge&color=7AA2F7&label=VISITEURS" alt="Profile views" />
+</p>
 
 <p align="center">
   <i>« Le meilleur code est celui qu'on n'a pas besoin d'écrire. »</i>
