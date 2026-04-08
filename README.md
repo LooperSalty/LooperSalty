@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FFD23F,100:004E98&height=220&section=header&text=ANAKIN&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Vibe%20Coder%20%E2%9A%A1%20Game%20Dev%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20World%20Builder&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%AE+Je+construis+des+mondes+%E2%80%94+en+voxels+et+en+neurons;%F0%9F%A4%96+Multi-Agent+Orchestrator+%7C+Claude+%2B+Gemini;%F0%9F%94%A5+Du+C%2B%2B+au+Luau%2C+du+Rust+au+React;%E2%9A%A1+Vibe+Coding+%3D+Ship+Fast%2C+Break+Nothing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%AE+Je+construis+des+mondes+%E2%80%94+en+pixels+et+en+neurons;%F0%9F%A4%96+Multi-Agent+Orchestrator+%7C+Claude+%2B+Gemini;%F0%9F%94%A5+Du+C%2B%2B+au+Luau%2C+du+Rust+au+React;%E2%9A%A1+Vibe+Coding+%3D+Ship+Fast%2C+Break+Nothing" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -88,7 +88,7 @@ Superpower:
     <img src="https://img.shields.io/badge/C++17-OpenGL_3.3-004E98?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </a>
 </p>
-<p align="center">Clone Minecraft 1.8.9 from scratch — voxel rendering, terrain generation, physics engine, chunk loading</p>
+<p align="center">Clone Minecraft 1.8.9 from scratch — pixel rendering, terrain generation, physics engine, chunk loading</p>
 
 </td>
 <td width="50%" valign="top">
