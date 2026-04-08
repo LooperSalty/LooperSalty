@@ -239,15 +239,6 @@ Superpower:
 
 ---
 
-<!-- TROPHÉES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LooperSalty&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
-
----
-
 <!-- CONTACT -->
 <div align="center">
 
