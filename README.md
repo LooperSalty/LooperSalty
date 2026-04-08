@@ -284,6 +284,10 @@ Superpower:
 
 *Ship fast. Vibe hard. Build worlds.*
 
+<br/>
+
+> *« Les Romains n'ont pas construit Rome en un jour... parce qu'ils n'avaient pas Claude Code. »*
+
 </div>
 
 <!-- FOOTER WAVE -->
