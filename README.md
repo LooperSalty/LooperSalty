@@ -4,63 +4,52 @@
   <img alt="LooperSalty — game engines, emulation, AI tooling" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-Developer based in France. I like rebuilding hard things from scratch to understand how they work:
-a Minecraft engine in C++, an Xbox Series X emulator, a GPT trained from zero, a programming language made of emoji.
+<p align="center">
+  Developer based in France. I rebuild hard things from scratch to understand how they work:<br>
+  a Minecraft engine in C++, an Xbox Series X emulator, a GPT trained from zero, a language made of emoji.
+</p>
 
-**Right now** — making [AnyXboxX](https://github.com/LooperSalty/AnyXboxX) run real Xbox GDK games on Windows.
+<p align="center">
+  <a href="https://github.com/LooperSalty"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="mailto:106304476+LooperSalty@users.noreply.github.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
+  <a href="https://belotro.vercel.app"><img src="assets/btn-belotro.svg" alt="Play Belotro" height="44"></a>
+</p>
 
----
+<br>
 
-## Featured · [AnyXboxX](https://github.com/LooperSalty/AnyXboxX)
+## 🎮 Right now
 
-Prototype Xbox Series X emulator. It loads GDK executables (PE32+ x86-64), runs them through Unicorn and replaces the console's system functions with a C++ runtime (high-level emulation, the same approach as Wine).
+<a href="https://github.com/LooperSalty/AnyXboxX"><img src="assets/cards/anyxboxx.svg" alt="AnyXboxX — Xbox Series X emulator prototype: CPU 100 %, GPU 35 %, system functions 66 %, GDK runtime 166 of 396 functions" width="100%"></a>
 
-| CPU instructions | GPU (RDNA 2 → DXIL) | System functions | GDK runtime |
-| :---: | :---: | :---: | :---: |
-| **100 %** | **35 %** | **66 %** | **166 / 396** |
+## 🧱 Projects
 
-<sub>Python · C++ · D3D12 · Unicorn — numbers from the project README.</sub>
+<p>
+  <a href="https://github.com/LooperSalty/liberty-break"><img src="assets/cards/liberty-break.svg" alt="liberty-break — GTA-like in the browser" width="49%"></a>
+  <a href="https://github.com/LooperSalty/Belotro"><img src="assets/cards/belotro.svg" alt="Belotro — French coinche as a Balatro-style roguelike" width="49%"></a>
+  <a href="https://github.com/LooperSalty/Minecraft"><img src="assets/cards/minecraft.svg" alt="Minecraft 1.8.9 clone in C++ and OpenGL" width="49%"></a>
+  <a href="https://github.com/LooperSalty/bob-nanogpt-fr"><img src="assets/cards/bob-nanogpt-fr.svg" alt="bob-nanogpt-fr — a small French GPT trained from zero" width="49%"></a>
+  <a href="https://github.com/LooperSalty/mojito-lang"><img src="assets/cards/mojito-lang.svg" alt="mojito-lang — a programming language written in emoji" width="49%"></a>
+  <a href="https://github.com/LooperSalty/mcp-desktop-windows"><img src="assets/cards/mcp-desktop-windows.svg" alt="mcp-desktop-windows — MCP server that drives any Windows app" width="49%"></a>
+</p>
 
----
-
-## Games and real-time 3D
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Minecraft](https://github.com/LooperSalty/Minecraft) | Minecraft 1.8.9 clone written from scratch: chunk streaming, terrain generation, physics, block rendering | C++17, OpenGL 3.3 |
-| [liberty-break](https://github.com/LooperSalty/liberty-break) | GTA-like game in the browser: procedural city, arcade physics, police AI, bank heist, zero external assets | JavaScript, Three.js |
 | [nexagen](https://github.com/LooperSalty/nexagen) | Procedural world engine playable in the browser, with AI-assisted generation | TypeScript, Three.js |
-| [Belotro](https://github.com/LooperSalty/Belotro) | French coinche turned into a roguelike, Balatro-style. One HTML file, online multiplayer | HTML, Supabase |
-
-## AI and developer tools
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [bob-nanogpt-fr](https://github.com/LooperSalty/bob-nanogpt-fr) | Small French GPT built from zero: BPE tokenizer, causal self-attention, chat fine-tuning, web UI | PyTorch |
-| [mojito-lang](https://github.com/LooperSalty/mojito-lang) | 🍹 A programming language written only in emoji, with a compiler to JavaScript and a VS Code extension | TypeScript |
-| [jarvis](https://github.com/LooperSalty/jarvis) | Local voice assistant on Ollama: Three.js orb, Obsidian memory, desktop actions, Windows tray | Python |
-| [mcp-desktop-windows](https://github.com/LooperSalty/mcp-desktop-windows) | MCP server that drives any Windows app (Win32, WPF, UWP, .NET) through UI Automation | Python |
-| [jobbot](https://github.com/LooperSalty/jobbot) | Job-search autopilot: collects offers, scores them, writes a tailored CV and cover letter, follows up | Python |
-
-## Tools I use every day
-
-| Project | What it is | Stack |
-| --- | --- | --- |
+| [jarvis](https://github.com/LooperSalty/jarvis) | Local voice assistant on Ollama: Three.js orb, Obsidian memory, desktop actions | Python |
+| [jobbot](https://github.com/LooperSalty/jobbot) | Job-search autopilot: collects offers, scores them, writes a tailored CV and letter, follows up | Python |
+| [montage-video-claude](https://github.com/LooperSalty/montage-video-claude) | Video editing driven by Claude Code: skills, MCP servers, TikTok production kit | Python |
 | [claude-code-config](https://github.com/LooperSalty/claude-code-config) | My Claude Code setup: agents, hooks, rules, slash commands | JavaScript |
-| [montage-video-claude](https://github.com/LooperSalty/montage-video-claude) | Video editing driven by Claude Code: skills, MCP servers and a TikTok production kit | Python |
-| [cs2-tracker](https://github.com/LooperSalty/cs2-tracker) | Counter-Strike 2 stats: live match tracking, in-game overlay, explainable heuristic anti-cheat | Python |
+| [cs2-tracker](https://github.com/LooperSalty/cs2-tracker) | Counter-Strike 2 stats: live match tracking, in-game overlay, heuristic anti-cheat | Python |
 | [WallpaperEngine](https://github.com/LooperSalty/WallpaperEngine) | GTK4 / libadwaita app to browse and apply Wallpaper Engine wallpapers on Linux | Python |
 
----
+</details>
 
-## Stack
+## 🛠️ Stack
 
-**Languages** — C++ · C · TypeScript · JavaScript · Python · Rust · Lua/Luau · PHP · Dart<br>
-**Graphics & games** — OpenGL · Three.js · D3D12 · Blender · Roblox Studio · Unreal Engine<br>
-**Web** — React · Next.js · Node.js · Symfony · Laravel · Tailwind · PostgreSQL · Supabase<br>
-**AI** — PyTorch · Ollama · MCP servers · multi-agent orchestration with Claude Code<br>
-**Other** — Docker · Git · Linux · Tauri
+<img src="assets/stack.svg" alt="Languages: C++, C, TypeScript, JavaScript, Python, Rust, Lua, PHP, Dart. Games and 3D: OpenGL, Three.js, Blender, Roblox, Unreal. Web: React, Next.js, Node.js, Symfony, Laravel, Tailwind, Postgres, Supabase. AI: PyTorch, Ollama, Claude, MCP. Tools: Docker, Git, Linux, Tauri, Vite." width="100%">
 
-## Contact
-
-[LinkedIn](https://github.com/LooperSalty) · 106304476+LooperSalty@users.noreply.github.com · I speak French and English.
+<sub>Icons from <a href="https://simpleicons.org">Simple Icons</a> (CC0). Screenshots taken from the projects themselves.</sub>
