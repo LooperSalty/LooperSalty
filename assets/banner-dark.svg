@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">LooperSalty — LooperSalty</title>
+  <desc id="d">Developer in France building game engines, emulators and AI tooling.</desc>
+  <style>
+    .bg{fill:#0A0A0F}
+    .grid{stroke:#ffffff;stroke-opacity:.045}
+    .name{font:800 76px 'Segoe UI',Inter,system-ui,-apple-system,sans-serif;fill:#F4F4F6;letter-spacing:-1.5px}
+    .handle{font:500 22px ui-monospace,'JetBrains Mono',Consolas,monospace;fill:#FF6B35}
+    .prompt{fill:#6B6E7B}
+    .tag{font:400 25px 'Segoe UI',Inter,system-ui,-apple-system,sans-serif;fill:#A7A9B4}
+    .dot{fill:#FFD23F}
+    .cur{fill:#FF6B35;animation:blink 1.1s steps(1) infinite}
+    .top{fill:#FF6B35}.left{fill:#C2461C}.right{fill:#8E2F10}
+    .top2{fill:#3A7BD5}.left2{fill:#004E98}.right2{fill:#00346A}
+    .top3{fill:#FFD23F}.left3{fill:#D9A800}.right3{fill:#A67F00}
+    .cube{opacity:0;animation:pop .6s cubic-bezier(.34,1.56,.64,1) forwards}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes pop{from{opacity:0;transform:translateY(-14px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){.cur,.cube{animation:none;opacity:1}}
+  </style>
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" class="grid"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0A0A0F" stop-opacity="1"/>
+      <stop offset=".55" stop-color="#0A0A0F" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#0A0A0F" stop-opacity="0"/>
+    </linearGradient>
+    <g id="c1"><path class="top" d="M0 -16 28 -32 56 -16 28 0Z"/><path class="left" d="M0 -16 28 0 28 32 0 16Z"/><path class="right" d="M28 0 56 -16 56 16 28 32Z"/></g>
+    <g id="c2"><path class="top2" d="M0 -16 28 -32 56 -16 28 0Z"/><path class="left2" d="M0 -16 28 0 28 32 0 16Z"/><path class="right2" d="M28 0 56 -16 56 16 28 32Z"/></g>
+    <g id="c3"><path class="top3" d="M0 -16 28 -32 56 -16 28 0Z"/><path class="left3" d="M0 -16 28 0 28 32 0 16Z"/><path class="right3" d="M28 0 56 -16 56 16 28 32Z"/></g>
+  </defs>
+
+  <rect class="bg" width="1280" height="320"/>
+  <rect width="1280" height="320" fill="url(#g)"/>
+  <rect width="760" height="320" fill="url(#fade)"/>
+
+  <g transform="translate(1030 168)">
+    <use href="#c2" x="0" y="0" class="cube" style="animation-delay:0.05s"/>
+    <use href="#c1" x="0" y="-32" class="cube" style="animation-delay:0.35s"/>
+    <use href="#c1" x="0" y="-64" class="cube" style="animation-delay:0.65s"/>
+    <use href="#c2" x="28" y="16" class="cube" style="animation-delay:0.10s"/>
+    <use href="#c2" x="-28" y="16" class="cube" style="animation-delay:0.10s"/>
+    <use href="#c1" x="28" y="-16" class="cube" style="animation-delay:0.40s"/>
+    <use href="#c1" x="-28" y="-16" class="cube" style="animation-delay:0.40s"/>
+    <use href="#c2" x="56" y="32" class="cube" style="animation-delay:0.15s"/>
+    <use href="#c2" x="0" y="32" class="cube" style="animation-delay:0.15s"/>
+    <use href="#c2" x="-56" y="32" class="cube" style="animation-delay:0.15s"/>
+    <use href="#c1" x="0" y="0" class="cube" style="animation-delay:0.45s"/>
+    <use href="#c3" x="56" y="0" class="cube" style="animation-delay:0.45s"/>
+    <use href="#c2" x="28" y="48" class="cube" style="animation-delay:0.20s"/>
+    <use href="#c2" x="-28" y="48" class="cube" style="animation-delay:0.20s"/>
+  </g>
+
+  <text x="72" y="104" class="handle" textLength="290" lengthAdjust="spacingAndGlyphs">~/LooperSalty<tspan class="prompt"> $ whoami</tspan></text>
+  <text x="68" y="186" class="name">LooperSalty</text>
+  <text x="72" y="236" class="tag">Game engines<tspan class="dot"> · </tspan>Emulation<tspan class="dot"> · </tspan>AI tooling</text>
+  <rect x="370" y="85" width="12" height="23" class="cur"/>
+</svg>
