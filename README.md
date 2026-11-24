@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LooperSalty"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>
-  <a href="mailto:106304476+LooperSalty@users.noreply.github.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>
   <a href="https://belotro.vercel.app"><img src="assets/btn-belotro.svg" alt="Play Belotro" height="44"></a>
 </p>
 
